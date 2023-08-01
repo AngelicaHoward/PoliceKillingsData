@@ -2,8 +2,8 @@ Police killings in the United States have been a subject of intense scrutiny and
 
 Demographic Overview: 
 
-Age
-Race 
-Gender
-Location 
+Age,
+Race,
+Gender,
+Location,
 Mental Health Concerns
