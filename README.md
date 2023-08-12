@@ -1,9 +1,16 @@
-Police killings in the United States have been a subject of intense scrutiny and concern over the past few decades. The loss of lives due to encounters with law enforcement has prompted nationwide debates on issues related to race, mental health concerns, and police practices. This comprehensive analysis aims to shed light on the demographics of police killings in the US, presenting an unbiased overview of the data to foster a better understanding of the underlying factors and implications.
+The issue of police-related fatalities involving women within the United States has gained significant attention in recent times. Although instances of police violence tend to focus primarily on men, it is crucial to recognize that women have also been affected, thereby introducing distinct considerations. This analysis aims to examine the specific traits that define women who encountered fatal incidents with law enforcement between the years 2015 and 2019 in the United States:
 
-Demographic Overview: 
 
-Age,
-Race,
-Gender,
-Location,
-Mental Health Concerns
+Age Range: What was the age bracket within which the individual fell?
+
+Racial Identity: What racial background did the person identify with?
+
+Mental Health: Were there observable signs indicating the presence of mental health concerns?
+
+Attempted Evasion: Did the individual make an effort to elude the situation?
+
+Incident Location: Where precisely did the police-involved fatality occur?
+
+
+By exploring these characteristics, a more comprehensive understanding of the circumstances surrounding police-involved fatalities of women during the specified period can be analyzed.
+
